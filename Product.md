@@ -32,5 +32,14 @@ Add new products as a new table row at the end of the tbody section, below the p
 			<td>Freemium</td>
 			<td><a href="https://www.lets-code.co.in/">lets-code.co.in</a></td>
 		</tr>
+		<tr>
+			<td>conquesta.io</td>
+			<td>Multiplayer RTS - Game</td>
+			<td>A Fast paced multiplayer strategy game, built for the web. Defend castle and economy and be the last man standing</td>
+			<td>Everyone</td>
+			<td>Free / Includes Paid Items</td>
+			<td><a href="https://conquesta.io">conquesta.io</a></td>
+		</tr>
+
 	</tbody>
 </table>
