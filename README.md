@@ -294,6 +294,7 @@ This collection includes:
 - [Y Combinator](https://www.ycombinator.com/)
 - [500 Startups](https://www.500startups.com/)
 - [Plug and Play](https://www.plugandplaytechcenter.com/)
+- [accelerator.directory](https://accelerator.directory/)
 
 ---
 
