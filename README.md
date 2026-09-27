@@ -18,6 +18,14 @@ Building a startup is hard. Finding the right tools shouldn't be.
 
 This repository is a curated directory of essential resources for every stage of your startup journey -> from ideation to scaling. Whether you're a first-time founder or a serial entrepreneur, you'll find tools for product development, marketing, fundraising, team management, and everything in between.
 
+## StartupsMap
+
+[StartupsMap](https://startupsmap.co.in/) is an interactive platform to discover and explore startups across cities and locations.
+
+**Founders:** List your startup on StartupsMap and get discovered by the growing startup community.
+
+🌐 [List Your Startup](https://startupsmap.co.in/)
+
 ##  Who Is This For?
 
 - **Founders & Co-founders** - Building your startup from scratch
