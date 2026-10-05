@@ -747,6 +747,7 @@ This collection includes:
 - [Idevaffiliate](https://www.idevaffiliate.com/)
 - [Impact](https://impact.com/)
 - [Partnerstack](https://partnerstack.com/)
+- [Power CM Partners](https://partners.powercm-software.com/) - Software partner network for tracked campaigns and commissions on attributed verified sales
 - [Friendbuy](https://www.friendbuy.com/)
 
 ---
