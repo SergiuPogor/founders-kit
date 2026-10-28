@@ -434,6 +434,7 @@ This collection includes:
 - [EzGIF](https://ezgif.com/)
 - [BannerSnack](https://www.bannersnack.com/)
 - [Screely](https://screely.com/)
+- [BudgetPixel Design Templates](https://budgetpixel.com/design/templates)
 
 ### UI Libraries
 - [Ant.design](https://ant.design/)
