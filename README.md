@@ -345,6 +345,7 @@ This collection includes:
 ### Angel Directories
 - [First Round Capital](https://firstround.com/)
 - [NFX List](https://www.nfx.com/)
+- [AngelBacked](https://www.angelbacked.co/)
 
 ### Pitch Decks
 - [Cirrus Insight Deck](https://www.cirrusinsight.com/)
