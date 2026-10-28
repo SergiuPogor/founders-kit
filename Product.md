@@ -57,14 +57,6 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td><a href="https://getappniche.com/">getappniche.com</a></td>
 </tr>
 <tr>
-<td>Micro-SaaS Runway Price Floor Calculator</td>
-<td>Founder Tools</td>
-<td>Calculator for estimating a micro-SaaS price floor, break-even customers, and runway gap.</td>
-<td>Bootstrapped SaaS founders and solo operators</td>
-<td>Free</td>
-<td><a href="https://micro-saas-runway-price-floor-calculator.vercel.app/">Website</a></td>
-</tr>
-<tr>
 <td>UIZZE</td>
 <td>Design / Developer Tools</td>
 <td>Tools and UI references for coding agents, including a GitHub Action and MCP powered by 800,000+ real web and iOS screens.</td>
