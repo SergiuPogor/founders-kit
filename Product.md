@@ -111,6 +111,20 @@ Add new products as a new table row at the end of the tbody section, below the p
 <td>Small businesses, freelancers and small sales teams</td>
 <td>Freemium</td>
 <td><a href="https://crmlead.io">crmlead.io</a></td>
+<td>Agent QA</td>
+<td>Developer Tools / Testing</td>
+<td>Runs YAML-defined tests for AI agents across models, browsers, and devices.</td>
+<td>Developers and QA teams evaluating AI agents</td>
+<td>No Agent QA fee; provider costs may apply</td>
+<td><a href="https://github.com/vostride/agent-qa">github.com/vostride/agent-qa</a></td>
+</tr>
+<tr>
+<td>Zyta</td>
+<td>SaaS / Business Operations</td>
+<td>Operations workspace for Indian SMBs — GST invoices, work orders, inventory, and documents in one place, with guest-portal sharing and WhatsApp dispatch.</td>
+<td>Indian SMB owner-operators, field-service businesses, and agencies</td>
+<td>Freemium</td>
+<td><a href="https://zyta.dev">zyta.dev</a></td>
 </tr>
 </tbody>
 </table>

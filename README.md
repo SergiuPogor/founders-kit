@@ -18,6 +18,14 @@ Building a startup is hard. Finding the right tools shouldn't be.
 
 This repository is a curated directory of essential resources for every stage of your startup journey -> from ideation to scaling. Whether you're a first-time founder or a serial entrepreneur, you'll find tools for product development, marketing, fundraising, team management, and everything in between.
 
+## StartupsMap
+
+[StartupsMap](https://startupsmap.co.in/) is an interactive platform to discover and explore startups across cities and locations.
+
+**Founders:** List your startup on StartupsMap and get discovered by the growing startup community.
+
+🌐 [List Your Startup](https://startupsmap.co.in/)
+
 ##  Who Is This For?
 
 - **Founders & Co-founders** - Building your startup from scratch
@@ -266,6 +274,7 @@ This collection includes:
 - [Beginners Guide to SEO](https://www.beginnersguideto.seo/)
 - [100+ Growth Tactics](https://www.100growthtactics.com/)
 - [Where Does Growth Come From?](https://www.wheredoesgrowthcomefrom.com/)
+- [How to Check if ChatGPT Mentions Your Brand — SearchD](https://searchd.ai/answers/how-to-check-if-chatgpt-mentions-your-brand) - A manual workflow for selecting buyer questions and recording brand mentions, competitors, cited sources, and session conditions.
 
 ### Hiring Resources
 - [Founder Library About Hiring](https://www.founderlibrary.com/hiring)
@@ -294,6 +303,7 @@ This collection includes:
 - [Y Combinator](https://www.ycombinator.com/)
 - [500 Startups](https://www.500startups.com/)
 - [Plug and Play](https://www.plugandplaytechcenter.com/)
+- [accelerator.directory](https://accelerator.directory/)
 
 ---
 
@@ -335,6 +345,7 @@ This collection includes:
 ### Angel Directories
 - [First Round Capital](https://firstround.com/)
 - [NFX List](https://www.nfx.com/)
+- [AngelBacked](https://www.angelbacked.co/)
 
 ### Pitch Decks
 - [Cirrus Insight Deck](https://www.cirrusinsight.com/)
@@ -372,6 +383,7 @@ This collection includes:
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Heroku](https://www.heroku.com/)
 - [Amazon AWS](https://aws.amazon.com/)
+- [Prisma Compute](https://www.prisma.io/compute)
 
 ### Lead Generation
 - [Proof](https://useproof.com/)
@@ -424,6 +436,7 @@ This collection includes:
 - [EzGIF](https://ezgif.com/)
 - [BannerSnack](https://www.bannersnack.com/)
 - [Screely](https://screely.com/)
+- [BudgetPixel Design Templates](https://budgetpixel.com/design/templates)
 
 ### UI Libraries
 - [Ant.design](https://ant.design/)
@@ -526,6 +539,7 @@ This collection includes:
 ### Backend Services
 - [Airtable](https://airtable.com/)
 - [Firebase](https://firebase.google.com/)
+- [Prisma Postgres](https://www.prisma.io/postgres)
 - [Supabase](https://supabase.com/)
 
 ---
@@ -737,6 +751,7 @@ This collection includes:
 - [Idevaffiliate](https://www.idevaffiliate.com/)
 - [Impact](https://impact.com/)
 - [Partnerstack](https://partnerstack.com/)
+- [Power CM Partners](https://partners.powercm-software.com/) - Software partner network for tracked campaigns and commissions on attributed verified sales
 - [Friendbuy](https://www.friendbuy.com/)
 
 ---
@@ -748,6 +763,7 @@ This collection includes:
 - [Crashlytics](https://firebase.google.com/products/crashlytics)
 - [UptimeRobot](https://uptimerobot.com/)
 - [Datadog](https://www.datadoghq.com/)
+- [Fivenines](https://fivenines.io/)
 
 ---
 
@@ -993,6 +1009,7 @@ This collection includes:
 - [Launching Next](https://www.launchingnext.com/)
 - [Startup Ranking](https://www.startupranking.com/)
 - [AwesomeIndie](https://awesomeindie.com/)
+- [StarTap](https://startap.cc/) — Free directory where makers list websites and visitors support projects through a star-clicking game.
 
 ### Relevant Subreddits
 - [r/coding](https://www.reddit.com/r/coding/)
